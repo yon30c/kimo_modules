@@ -1,4 +1,2 @@
+print("Hola mundo");
 
-void printHello() {
-  print("Hola mundo");
-}
